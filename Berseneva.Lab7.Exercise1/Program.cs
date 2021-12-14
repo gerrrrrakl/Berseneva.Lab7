@@ -20,7 +20,7 @@ namespace Berseneva.Lab7.Exercise1
                 case "2":
                     Console.WriteLine("Вами был выбран 2 тип данных");
                     Char();
-                    break;
+                    break;    
             }
 
             static void String()
